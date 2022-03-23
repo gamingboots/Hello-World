@@ -31,3 +31,7 @@ git push YOUR_REPO_URL develop
 ### Step 3: Create a new pull request 🔃
 
 After cloning & setting up the local project you can push the changes to your github fork and make a pull request.
+## Authors ✒️
+
+- [@gamingboots](https://github.com/gamingboots) Source - Google
+------
