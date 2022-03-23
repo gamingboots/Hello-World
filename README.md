@@ -8,7 +8,8 @@
   <br>
   <strong>I am aiming to make this in 50 languages 💖<strong>
 </div>
-<ontributing
+
+## contributing 📝
 
 ### Step 1: Clone The Repo 💡
 
