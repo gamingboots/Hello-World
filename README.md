@@ -13,7 +13,7 @@
 Fork the repository and then clone it locally by doing -
 
 ```bash
-git clone https://github.com/TheKaushikGoswami/Olympus.git
+git clone https://github.com/gamingboots/Hello-World.git
 ```
 
 ### Step 2: Build Your Code 🔨
