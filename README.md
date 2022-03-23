@@ -1,7 +1,7 @@
 # Hello-World 🌫️ 
 <div align="center">
   <img src="https://img.shields.io/github/forks/gamingboots/Hello-World?logo=Github&style=for-the-badge">
-  <img src="https://img.shields.io/packagist/stars/gamingboots/Hello-World?logo=Github&style=for-the-badge">
+  <img src="https://img.shields.io/github/last-commit/gamingboots/Hello-World?logo=Github&style=for-the-badge">
   <img src="https://img.shields.io/github/repo-size/gamingboots/Hello-World?logo=Github&style=for-the-badge">
   <br>
   <strong>I am aiming to make this in 50 languages 💖<strong>
