@@ -32,10 +32,10 @@ git push YOUR_REPO_URL develop
 ### Step 3: Create a new pull request 🔃
 
 After cloning & setting up the local project you can push the changes to your github fork and make a pull request.
-## Authors ✒️
+## Contributors ✒️
 
-- [@gamingboots](https://github.com/gamingboots) Sources - Google
-- [@Kekda-py](https://github.com/kekda-py)
-- [@C0lded](https://github.com/c0lded)
-- [@anurag-krmkr](https://github.com/anurag-krmkr)
+<a href="https://github.com/gamingboots/Hello-World/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=gamingboots/Hello-World" />
+</a>
+
 ------
