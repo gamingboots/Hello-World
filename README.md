@@ -35,4 +35,7 @@ After cloning & setting up the local project you can push the changes to your gi
 ## Authors ✒️
 
 - [@gamingboots](https://github.com/gamingboots) Sources - Google
+- [@Kekda-py](https://github.com/kekda-py)
+- [@C0lded](https://github.com/c0lded)
+- [@anurag-krmkr](https://github.com/anurag-krmkr)
 ------
