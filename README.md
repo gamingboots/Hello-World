@@ -35,6 +35,7 @@ After cloning & setting up the local project you can push the changes to your gi
 ## ✨ Contributors
 
 Contributions are always welcomed :D
+    
 <a href="https://github.com/gamingboots/Hello-World/graphs/contributors">
   <img src="https://contributors-img.web.app/image?repo=gamingboots/Hello-World">
  </a>
