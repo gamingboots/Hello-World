@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/github/last-commit/gamingboots/Hello-World?logo=Github&style=for-the-badge">
   <img src="https://img.shields.io/github/repo-size/gamingboots/Hello-World?logo=Github&style=for-the-badge">
   <br>
-  <strong>I am aiming to make this in 50 languages 💖<strong>
+  <strong>I am aiming to make this in 169 languages 💖<strong>
 </div>
 
 ## contributing 📝
