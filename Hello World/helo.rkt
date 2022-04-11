@@ -1,2 +1,2 @@
 #lang cli
-(displayln "Hello, World!")
+(displayln "Hello World!")
