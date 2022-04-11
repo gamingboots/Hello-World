@@ -1,1 +1,1 @@
-main() :- write("Hello, World!"), nl.
+main() :- write("Hello World!"), nl.
