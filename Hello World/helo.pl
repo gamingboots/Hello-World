@@ -1,1 +1,1 @@
-print "Hello World!";
+main() :- write("Hello, World!"), nl.
