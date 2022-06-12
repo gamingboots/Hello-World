@@ -1,3 +1,5 @@
+#include <iostream>
+
 int main(){
-    std::count << "Hello World!";
+    std::cout << "Hello World!";
 }
