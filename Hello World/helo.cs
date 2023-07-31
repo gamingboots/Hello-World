@@ -1,7 +1,7 @@
-namespace HelloWorld{
-    class Hello{
+namespace HelloWorld {
+    class Hello {
         static void Main(string[] args) {
-            system.console.WriteLine("Hello World!")
+            System.Console.WriteLine("Hello World!")
         }
     }
 }
